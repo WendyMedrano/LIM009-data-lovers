@@ -13,7 +13,12 @@ valuesObjet.forEach(showData);
 
 //filtrando por tipo
 
+const filter=(condition)=>{
 
+	const filterType = dataPoke.filter(ele=> ele.type[0] === condition || ele.type[1] === condition)
+	console.log( filterType.map(elee=>elee.name));
+	}
+filter('Water');
 
 
 
