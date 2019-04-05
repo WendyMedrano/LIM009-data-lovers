@@ -19,8 +19,8 @@ Ver producto desarrollado :  https://nayruthcalla.github.io/LIM009-data-lovers/s
 * [Navegación por la interfaz](#navegación-por-la-intefaz)
 * [Planificación del proyecto](#planificación-del-proyecto)
 * [Futuras mejoras](#futuras-mejoras)
+* [Testeos de Usabilidad](#cambios-del-interfaz)
 
-*
 
 ## Definición de producto
 
@@ -126,5 +126,20 @@ Manejamos los requerimientos en un checklist para ver qué puntos estaban/están
 
 ## Futuras mejoras
 
-*Realizar una ventana modal para mas detalles de un pokémon
+* Realizar una ventana modal para mas detalles de un pokémon
 * Visualizaciones gráficas: Google Charts.
+## Testeos de Usabilidad
+### Primera entrevista
+#### Perfil:
+* Piera, tiene 24 años y trabaja como capacitadora de Salud Ocupacional, nunca ha jugado POKEMON, ni ha visto la serie. Se le mostró la página en versión movil.
+
+#### Contexto de la entrevista:
+* Viajando en el Metropolitano.
+![image](https://user-images.githubusercontent.com/47748753/55657126-db877080-57be-11e9-9a92-2548301f1e59.png)
+#### Sugerencia:
+![image](https://user-images.githubusercontent.com/47748753/55657183-05d92e00-57bf-11e9-8979-28e739165392.png)
+
+* Notó a primera vista que el eslogan de nuestra página no se leía, en realidad le pregunté si lo había notado, me respondió que no.
+![image](https://user-images.githubusercontent.com/47748753/55657437-d4ad2d80-57bf-11e9-88c2-0170a8ec89a1.png)
+* Sugirió que faltaba más información de los pokemones para conocer a sus enemigos, que debería aparecer cada vez que haga clic en la imagen del pokemón.
+* Le pedí que mostrara a los pokemones insectos y no pudo ubicarlos, porque los tipos está en Inglés.
