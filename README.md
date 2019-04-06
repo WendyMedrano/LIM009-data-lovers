@@ -143,3 +143,21 @@ Manejamos los requerimientos en un checklist para ver qué puntos estaban/están
 ![image](https://user-images.githubusercontent.com/47748753/55657437-d4ad2d80-57bf-11e9-88c2-0170a8ec89a1.png)
 * Sugirió que faltaba más información de los pokemones para conocer a sus enemigos, que debería aparecer cada vez que haga clic en la imagen del pokemón.
 * Le pedí que mostrara a los pokemones insectos y no pudo ubicarlos, porque los tipos está en Inglés.
+#### Aplicando cambios sugeridos:
+
+##### Cambio 1 ANTES:
+Se muestra un screenShot de la aplicación testeada
+![WhatsApp Image 2019-04-05 at 6 07 41 PM](https://user-images.githubusercontent.com/47748753/55660836-e7c6fa00-57cd-11e9-9f5c-241e0b547b73.jpeg)
+##### Cambio 1 ANTES:
+A continuación se muestra lo cambios  aplicados:
+  ~ Eslogan grande:
+![ANDROID](https://user-images.githubusercontent.com/47748753/55660830-e1388280-57cd-11e9-8858-28365c95facb.png)
+
+
+##### Cambio 2 ANTES:
+Se muestra un screenShot de la aplicación testeada
+![WhatsApp Image 2019-04-05 at 6 21 42 PM](https://user-images.githubusercontent.com/47748753/55661158-b5b69780-57cf-11e9-9316-098a7cd4b4b8.jpeg)
+##### Cambio 2 ANTES:
+A continuación se muestra lo cambios  aplicados:
+  ~ Menú en español:
+![ANDROID (1)](https://user-images.githubusercontent.com/47748753/55661153-b0f1e380-57cf-11e9-8f95-ae0679202713.png)
