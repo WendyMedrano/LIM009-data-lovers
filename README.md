@@ -156,8 +156,9 @@ A continuación se muestra lo cambios  aplicados:
 
 ##### Cambio 2 ANTES:
 Se muestra un screenShot de la aplicación testeada
-![WhatsApp Image 2019-04-05 at 6 21 42 PM](https://user-images.githubusercontent.com/47748753/55661158-b5b69780-57cf-11e9-9316-098a7cd4b4b8.jpeg)
-<img src="(https://user-images.githubusercontent.com/47748753/55661158-b5b69780-57cf-11e9-9316-098a7cd4b4b8.jpeg" width="20px" height="20px" />
+<!-- ![WhatsApp Image 2019-04-05 at 6 21 42 PM](https://user-images.githubusercontent.com/47748753/55661158-b5b69780-57cf-11e9-9316-098a7cd4b4b8.jpeg) -->
+
+<img src="(https://user-images.githubusercontent.com/47748753/55661158-b5b69780-57cf-11e9-9316-098a7cd4b4b8.jpeg" width="200000px" height="20px" />
 ##### Cambio 2 ANTES:
 A continuación se muestra lo cambios  aplicados:
   ~ Menú en español:
