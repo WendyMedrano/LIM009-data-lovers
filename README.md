@@ -132,7 +132,7 @@ Manejamos los requerimientos en un checklist para ver qué puntos estaban/están
 ### Primera entrevista
 
 
-|PRIMERA ENTREVISTA|
+|INPUTS| OUTPUTS|
 |------------------|
 |Perfil|* Piera, tiene 24 años y trabaja como capacitadora de Salud Ocupacional, nunca ha jugado POKEMON, ni ha visto la serie. Se le mostró la página en versión movil.|
 |Contexto de la entrevista| Viaje de Norte a Sur, rumbo al trabajo en el metropolitano|
