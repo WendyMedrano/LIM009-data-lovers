@@ -130,13 +130,25 @@ Manejamos los requerimientos en un checklist para ver qué puntos estaban/están
 * Visualizaciones gráficas: Google Charts.
 ## Testeos de Usabilidad
 ### Primera entrevista
+
+
+|PRIMERA ENTREVISTA|
+|------------------|
+|Perfil|* Piera, tiene 24 años y trabaja como capacitadora de Salud Ocupacional, nunca ha jugado POKEMON, ni ha visto la serie. Se le mostró la página en versión movil.|
+|Contexto de la entrevista| Viaje de Norte a Sur, rumbo al trabajo en el metropolitano|
+|----------------------|
+|SUGERENCIA| APLICACIÓN|
+|----------------------|
+|Notó a primera vista que el eslogan de nuestra página no se leía, en realidad le pregunté si lo había notado, me respondió que no.| ![image](https://user-images.githubusercontent.com/47748753/55657437-d4ad2d80-57bf-11e9-88c2-0170a8ec89a1.png)|
 #### Perfil:
 * Piera, tiene 24 años y trabaja como capacitadora de Salud Ocupacional, nunca ha jugado POKEMON, ni ha visto la serie. Se le mostró la página en versión movil.
 
 #### Contexto de la entrevista:
 * Viajando en el Metropolitano.
+
 ![image](https://user-images.githubusercontent.com/47748753/55657126-db877080-57be-11e9-9a92-2548301f1e59.png)
 #### Sugerencia:
+
 ![image](https://user-images.githubusercontent.com/47748753/55657183-05d92e00-57bf-11e9-8979-28e739165392.png)
 
 * Notó a primera vista que el eslogan de nuestra página no se leía, en realidad le pregunté si lo había notado, me respondió que no.
