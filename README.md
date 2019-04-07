@@ -136,8 +136,8 @@ Manejamos los requerimientos en un checklist para ver qué puntos estaban/están
 --|--
 Perfil|* Piera, tiene 24 años y trabaja como capacitadora de Salud Ocupacional, nunca ha jugado POKEMON, ni ha visto la serie. Se lemostró la página en versión movil.                                
 Contexto de la entrevista| Viaje de Norte a Sur, rumbo al trabajo en el metropolitano
-Formato de entrevista| Video: <img src="https://user-images.githubusercontent.com/47748753/55657126-db877080-57be-11e9-9a92-2548301f1e59.png" width= 500 height= 600/>
-Sugerencia|  Agrandar el eslogan de la página por tener letras muy pequeñas: <img src = "https://user-images.githubusercontent.com/47748753/55660836-e7c6fa00-57cd-11e9-9f5c-241e0b547b73.jpeg" width = 400 height= 500/>
+Formato de entrevista| Video: <br/> <img src="https://user-images.githubusercontent.com/47748753/55657126-db877080-57be-11e9-9a92-2548301f1e59.png" width= 250 height= 320/>
+Sugerencia|  Agrandar el eslogan de la página por tener letras muy pequeñas: <img src = "https://user-images.githubusercontent.com/47748753/55660836-e7c6fa00-57cd-11e9-9f5c-241e0b547b73.jpeg" width = 350 height= 420/>
 Adaptación de la Sugerencia en Figma| Se agrandó el eslogan para el formato mobile: <img src="https://user-images.githubusercontent.com/47748753/55660830-e1388280-57cd-11e9-8858-28365c95facb.png" width height=/>
 #### Perfil:
 * Piera, tiene 24 años y trabaja como capacitadora de Salud Ocupacional, nunca ha jugado POKEMON, ni ha visto la serie. Se le mostró la página en versión movil.
