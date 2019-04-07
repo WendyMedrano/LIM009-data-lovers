@@ -137,42 +137,11 @@ Manejamos los requerimientos en un checklist para ver qué puntos estaban/están
 Perfil|* Piera, tiene 24 años y trabaja como capacitadora de Salud Ocupacional, nunca ha jugado POKEMON, ni ha visto la serie. Se lemostró la página en versión movil.                                
 Contexto de la entrevista| Viaje de Norte a Sur, rumbo al trabajo en el metropolitano
 Formato de entrevista| Video: <br/> <img src="https://user-images.githubusercontent.com/47748753/55657126-db877080-57be-11e9-9a92-2548301f1e59.png" width= 250 height= 320/>
-Sugerencia|  Agrandar el eslogan de la página por tener letras muy pequeñas: <img src = "https://user-images.githubusercontent.com/47748753/55660836-e7c6fa00-57cd-11e9-9f5c-241e0b547b73.jpeg" width = 350 height= 420/>
-Adaptación de la Sugerencia en Figma| Se agrandó el eslogan para el formato mobile: <img src="https://user-images.githubusercontent.com/47748753/55660830-e1388280-57cd-11e9-8858-28365c95facb.png" width height=/>
-#### Perfil:
-* Piera, tiene 24 años y trabaja como capacitadora de Salud Ocupacional, nunca ha jugado POKEMON, ni ha visto la serie. Se le mostró la página en versión movil.
+1ra Sugerencia|  Agrandar el eslogan de la página por tener letras muy pequeñas: <img src = "https://user-images.githubusercontent.com/47748753/55660836-e7c6fa00-57cd-11e9-9f5c-241e0b547b73.jpeg" width = 250 height= 320/>
+1ra Adaptación de la Sugerencia en Figma| Se agrandó el eslogan para el formato mobile: <img src="https://user-images.githubusercontent.com/47748753/55660830-e1388280-57cd-11e9-8858-28365c95facb.png" width=250 height=320/>
+2da Sugerencia|  Sugirió que faltaba más información de los pokemones para conocer a sus enemigos, que debería aparecer cada vez que haga clic en la imagen del pokemón. Le pedí que mostrara a los pokemones insectos y no pudo ubicarlos, porque los tipos está en Inglés: <img src = "https://user-images.githubusercontent.com/47748753/55660836-e7c6fa00-57cd-11e9-9f5c-241e0b547b73.jpeg" width = 250 height= 320/>
+2da Adaptación de la Sugerencia en Figma| Se agrandó el eslogan para el formato mobile: <img src="https://user-images.githubusercontent.com/47748753/55660830-e1388280-57cd-11e9-8858-28365c95facb.png" width=250 height=320/>
 
-#### Contexto de la entrevista:
-* Viajando en el Metropolitano.
-
-![image](https://user-images.githubusercontent.com/47748753/55657126-db877080-57be-11e9-9a92-2548301f1e59.png)
-#### Sugerencia:
-
-![image](https://user-images.githubusercontent.com/47748753/55657183-05d92e00-57bf-11e9-8979-28e739165392.png)
-
-* Notó a primera vista que el eslogan de nuestra página no se leía, en realidad le pregunté si lo había notado, me respondió que no.
-![image](https://user-images.githubusercontent.com/47748753/55657437-d4ad2d80-57bf-11e9-88c2-0170a8ec89a1.png)
-* Sugirió que faltaba más información de los pokemones para conocer a sus enemigos, que debería aparecer cada vez que haga clic en la imagen del pokemón.
-* Le pedí que mostrara a los pokemones insectos y no pudo ubicarlos, porque los tipos está en Inglés.
-#### Aplicando cambios sugeridos:
-
-##### Cambio 1 ANTES:
-Se muestra un screenShot de la aplicación testeada
-![WhatsApp Image 2019-04-05 at 6 07 41 PM](https://user-images.githubusercontent.com/47748753/55660836-e7c6fa00-57cd-11e9-9f5c-241e0b547b73.jpeg)
-##### Cambio 1 ANTES:
-A continuación se muestra lo cambios  aplicados:
-  ~ Eslogan grande:
-![ANDROID](https://user-images.githubusercontent.com/47748753/55660830-e1388280-57cd-11e9-8858-28365c95facb.png)
-
-
-##### Cambio 2 ANTES:
-Se muestra un screenShot de la aplicación testeada
-![WhatsApp Image 2019-04-05 at 6 21 42 PM](https://user-images.githubusercontent.com/47748753/55661158-b5b69780-57cf-11e9-9316-098a7cd4b4b8.jpeg)
-
-<img src="https://user-images.githubusercontent.com/47748753/55661158-b5b69780-57cf-11e9-9316-098a7cd4b4b8.jpeg" width="200" height="200" />
-sin pix
-<img src="https://user-images.githubusercontent.com/47748753/55661158-b5b69780-57cf-11e9-9316-098a7cd4b4b8.jpeg" width="200px" height="200px" />
-con pix
 ##### Cambio 2 ANTES:
 A continuación se muestra lo cambios  aplicados:
   ~ Menú en español:
