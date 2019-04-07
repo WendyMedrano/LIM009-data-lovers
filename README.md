@@ -137,10 +137,12 @@ Manejamos los requerimientos en un checklist para ver qué puntos estaban/están
 Perfil|* Piera, tiene 24 años y trabaja como capacitadora de Salud Ocupacional, nunca ha jugado POKEMON, ni ha visto la serie. Se lemostró la página en versión movil.                                
 Contexto de la entrevista| Viaje de Norte a Sur, rumbo al trabajo en el metropolitano
 Formato de entrevista| Video: <br/> <img src="https://user-images.githubusercontent.com/47748753/55657126-db877080-57be-11e9-9a92-2548301f1e59.png" width= 250 height= 320/>
-1ra Sugerencia|  Agrandar el eslogan de la página por tener letras muy pequeñas: <img src = "https://user-images.githubusercontent.com/47748753/55660836-e7c6fa00-57cd-11e9-9f5c-241e0b547b73.jpeg" width = 250 height= 320/>
-1ra Adaptación de la Sugerencia en Figma| Se agrandó el eslogan para el formato mobile: <img src="https://user-images.githubusercontent.com/47748753/55660830-e1388280-57cd-11e9-8858-28365c95facb.png" width=250 height=320/>
-2da Sugerencia|  Sugirió que faltaba más información de los pokemones para conocer a sus enemigos, que debería aparecer cada vez que haga clic en la imagen del pokemón. Le pedí que mostrara a los pokemones insectos y no pudo ubicarlos, porque los tipos está en Inglés: <img src = "https://user-images.githubusercontent.com/47748753/55660836-e7c6fa00-57cd-11e9-9f5c-241e0b547b73.jpeg" width = 250 height= 320/>
-2da Adaptación de la Sugerencia en Figma| Se agrandó el eslogan para el formato mobile: <img src="https://user-images.githubusercontent.com/47748753/55660830-e1388280-57cd-11e9-8858-28365c95facb.png" width=250 height=320/>
+1ra Sugerencia|  Agrandar el eslogan de la página por tener letras muy pequeñas:<br/> <img src = "https://user-images.githubusercontent.com/47748753/55660836-e7c6fa00-57cd-11e9-9f5c-241e0b547b73.jpeg" width = 250 height= 320/>
+1ra Adaptación de la Sugerencia en Figma| Se agrandó el eslogan para el formato mobile: <br/><img src="https://user-images.githubusercontent.com/47748753/55660830-e1388280-57cd-11e9-8858-28365c95facb.png" width=250 height=320/>
+2da Sugerencia| Le pedí que mostrara a los pokemones insectos y no pudo ubicarlos, porque los tipos está en Inglés:<br/> <img src = "https://user-images.githubusercontent.com/47748753/55661153-b0f1e380-57cf-11e9-8f95-ae0679202713.png" width = 250 height= 320/>
+2da Adaptación de la Sugerencia en Figma| Se modificó el listado de tipos a español: <img src="https://user-images.githubusercontent.com/47748753/55661153-b0f1e380-57cf-11e9-8f95-ae0679202713.png" width=250 height=320/>
+3ra Sugerencia|  Sugirió que faltaba más información de los pokemones para conocer a sus enemigos, que debería aparecer cada vez que haga clic en la imagen del pokemón. 
+3ra Adaptación de la Sugerencia en Figma| Se agrandó el eslogan para el formato mobile: <img src="https://user-images.githubusercontent.com/47748753/55686793-39d16200-592b-11e9-8613-d50952dd4dad.png" width=250 height=320/>
 
 ##### Cambio 2 ANTES:
 A continuación se muestra lo cambios  aplicados:
