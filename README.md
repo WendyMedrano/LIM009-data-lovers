@@ -129,6 +129,7 @@ Manejamos los requerimientos en un checklist para ver qué puntos estaban/están
 * Realizar una ventana modal para mas detalles de un pokémon
 * Visualizaciones gráficas: Google Charts.
 ## Testeos de Usabilidad
+
 ### Primera entrevista
 
 
@@ -142,14 +143,28 @@ Formato de entrevista| Video: <br/> <img src="https://user-images.githubusercont
 2da Sugerencia| Le pedí que mostrara a los pokemones insectos y no pudo ubicarlos, porque los tipos está en Inglés:<br/> <img src = "https://user-images.githubusercontent.com/47748753/55661158-b5b69780-57cf-11e9-9316-098a7cd4b4b8.jpeg" width = 250 height= 320/>
 2da Adaptación de la Sugerencia en Figma| Se modificó el listado de tipos a español: <img src="https://user-images.githubusercontent.com/47748753/55661153-b0f1e380-57cf-11e9-8f95-ae0679202713.png" width=250 height=320/>
 3ra Sugerencia|  Sugirió que faltaba más información de los pokemones para conocer a sus enemigos, que debería aparecer cada vez que haga clic en la imagen del pokemón. 
-3ra Adaptación de la Sugerencia en Figma| Se agrandó el eslogan para el formato mobile: <img src="https://user-images.githubusercontent.com/47748753/55686793-39d16200-592b-11e9-8613-d50952dd4dad.png" width=250 height=320/>
+3ra Adaptación de la Sugerencia en Figma| Se agregó información como peso, altura y los tipos de pokemones contra los que es débil: <img src="https://user-images.githubusercontent.com/47748753/55686793-39d16200-592b-11e9-8613-d50952dd4dad.png" width=250 height=320/>
 
-##### Cambio 2 ANTES:
-A continuación se muestra lo cambios  aplicados:
-  ~ Menú en español:
-![ANDROID (1)](https://user-images.githubusercontent.com/47748753/55661153-b0f1e380-57cf-11e9-8f95-ae0679202713.png)
+### Link de la versión iterada:
+Este es el figma iterado: 
+<a src="https://www.figma.com/proto/FHZxXsUVVvN4IHFsE7L7X5kO/POKEPEDIA-UX?node-id=55%3A23&scaling=min-zoom" >
 
-| ANTES      | DESPUÉS    |
-| ---------- | ---------- |
-| Campo A0   | Campo B0   |
-| ![WhatsApp Image 2019-04-05 at 6 21 42 PM](https://user-images.githubusercontent.com/47748753/55661158-b5b69780-57cf-11e9-9316-098a7cd4b4b8.jpeg)   | ![ANDROID (1)](https://user-images.githubusercontent.com/47748753/55661153-b0f1e380-57cf-11e9-8f95-ae0679202713.png)  |
+## Segunda Entrevista
+|INPUTS            | OUTPUTS                                                             |
+--|--
+Perfil|* Ninoska, tiene 24 años y estudia en Laboratoria. 
+Contexto de la entrevista| En clases de Laboratoria  
+Formato de entrevista| Video: <br/> <img src="https://user-images.githubusercontent.com/47748753/56018289-4b1dc400-5cc7-11e9-8892-2c9a287ff203.jpeg" width= 250 height= 320/> <img src="https://user-images.githubusercontent.com/47748753/56018285-4822d380-5cc7-11e9-9f70-8b8c428e2681.jpeg" width= 250 height= 320/>
+1ra Sugerencia|  Comentó que la descripción de los pokemones no llamó su atención, los enemigos deberíann verse en imágenes ya que en texto no se observa:<br/> <img src = "https://user-images.githubusercontent.com/47748753/56018393-a2239900-5cc7-11e9-8d91-40ee3f243d9e.png" width = 250 height= 320/>
+2da Sugerencia| Que la pantalla de descripción no use la opción de while hovering y que debería usarse el on click 
+3ra Sugerencia| Que se cambie la estructura de la página de un aside a un nav 
+3ra Adaptación de la Sugerencia en Figma| Se agregó una etiqueta nav : <img src="https://user-images.githubusercontent.com/47748753/56018460-cf704700-5cc7-11e9-92e1-b1cb51ee93bf.png" width=250 height=320/>
+
+## Segunda Entrevista
+|INPUTS            | OUTPUTS                                                             |
+--|--
+Perfil|* Narda, tiene 27 años y estudia en Laboratoria, nunca ha jugado el Pokémon go, ni ha visto la serie pero por cultura general conoce los pokémones más populares. 
+Contexto de la entrevista| En clases de Laboratoria  
+Formato de entrevista| Video: <br/> <img src="https://user-images.githubusercontent.com/47748753/56018769-a0a6a080-5cc8-11e9-8472-279758594327.jpeg" width= 250 height= 320/> 
+1ra Sugerencia|  Comentó que el aside de la página redunda el texto y es innecesario
+2da Sugerencia| Que la pantalla de descripción no use la opción de while hovering y que debería usarse el on click  ya que no se ve que está seleccionando.
